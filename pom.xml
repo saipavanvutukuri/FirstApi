@@ -44,7 +44,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>firstapi</finalName>
+		<finalName>firstapi_final</finalName>
 	</build>
 
 
